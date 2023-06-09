@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.genesys.tauhackathon"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <uses-feature
+14-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:10:5-12:35
+15        android:glEsVersion="0x00020000"
+15-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:11:9-41
+16        android:required="true" />
+16-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:12:9-32
+17    <uses-feature
+17-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:13:5-15:36
+18        android:name="android.hardware.wifi"
+18-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:14:9-45
+19        android:required="false" /> <!-- Implied by ACCESS_WIFI_STATE. -->
+19-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:15:9-33
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:17:5-67
+20-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:17:22-64
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:18:5-79
+21-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:18:22-76
+22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+22-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:19:5-76
+22-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:19:22-73
+23
+24    <permission
+24-->[androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+25        android:name="com.genesys.tauhackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+25-->[androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+26        android:protectionLevel="signature" />
+26-->[androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+27
+28    <uses-permission android:name="com.genesys.tauhackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+28-->[androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+28-->[androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+29
+30    <application
+30-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:8:5-32:19
+31        android:allowBackup="true"
+31-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:9:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+33        android:dataExtractionRules="@xml/data_extraction_rules"
+33-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:10:9-65
+34        android:debuggable="true"
+35        android:extractNativeLibs="false"
+36        android:fullBackupContent="@xml/backup_rules"
+36-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:11:9-54
+37        android:icon="@mipmap/ic_launcher"
+37-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:12:9-43
+38        android:label="@string/app_name"
+38-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:13:9-41
+39        android:roundIcon="@mipmap/ic_launcher_round"
+39-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:14:9-54
+40        android:supportsRtl="true"
+40-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:15:9-35
+41        android:testOnly="true"
+42        android:theme="@style/Theme.TAUHackathon" >
+42-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:16:9-50
+43        <activity
+43-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:19:9-22:59
+44            android:name="com.genesys.tauhackathon.MapsActivity"
+44-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:20:13-41
+45            android:exported="false"
+45-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:21:13-37
+46            android:label="@string/title_activity_maps" />
+46-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:22:13-56
+47        <activity
+47-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:23:9-31:20
+48            android:name="com.genesys.tauhackathon.MainActivity"
+48-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:24:13-41
+49            android:exported="true" >
+49-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:25:13-36
+50            <intent-filter>
+50-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:26:13-30:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:27:17-69
+51-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:27:25-66
+52
+53                <category android:name="android.intent.category.LAUNCHER" />
+53-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:29:17-77
+53-->C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:29:27-74
+54            </intent-filter>
+55        </activity>
+56
+57        <provider
+57-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:22:9-30:20
+58            android:name="androidx.startup.InitializationProvider"
+58-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:23:13-67
+59            android:authorities="com.genesys.tauhackathon.androidx-startup"
+59-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:24:13-68
+60            android:exported="false" >
+60-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:25:13-37
+61            <meta-data
+61-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:27:13-29:52
+62                android:name="com.mapbox.maps.loader.MapboxMapsInitializer"
+62-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:28:17-76
+63                android:value="androidx.startup" />
+63-->[com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:29:17-49
+64            <!-- This entry makes MapboxSDKCommonInitializer discoverable. -->
+65            <meta-data
+65-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:21:13-23:52
+66                android:name="com.mapbox.common.MapboxSDKCommonInitializer"
+66-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:22:17-76
+67                android:value="androidx.startup" />
+67-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:23:17-49
+68            <meta-data
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+70                android:value="androidx.startup" />
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+71            <meta-data
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+72                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+72-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+73                android:value="androidx.startup" />
+73-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+74        </provider>
+75
+76        <receiver
+76-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:26:9-33:20
+77            android:name="com.mapbox.common.location.LocationUpdatesReceiver"
+77-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:27:13-78
+78            android:enabled="true"
+78-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:28:13-35
+79            android:exported="false" >
+79-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:29:13-37
+80            <intent-filter>
+80-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:30:13-32:29
+81                <action android:name="com.mapbox.common.location.LocationUpdatesReceiver.ACTION_PROCESS_LOCATION_UPDATES" />
+81-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:31:17-125
+81-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:31:25-122
+82            </intent-filter>
+83        </receiver>
+84
+85        <service
+85-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:35:9-37:40
+86            android:name="com.mapbox.common.LifecycleService"
+86-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:36:13-62
+87            android:exported="false" />
+87-->[com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:37:13-37
+88
+89        <activity
+89-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+90            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+90-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+91            android:exported="false"
+91-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+92            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+92-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+93
+94        <meta-data
+94-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+95            android:name="com.google.android.gms.version"
+95-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+96            android:value="@integer/google_play_services_version" />
+96-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+97    </application>
+98
+99</manifest>

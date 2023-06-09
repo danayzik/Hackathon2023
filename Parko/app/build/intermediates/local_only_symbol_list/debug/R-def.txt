@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable annotation
+drawable background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id mapView
+layout activity_main
+layout activity_maps
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string mapbox_access_token
+string title_activity_maps
+style Base.Theme.TAUHackathon
+style Theme.TAUHackathon
+xml backup_rules
+xml data_extraction_rules
