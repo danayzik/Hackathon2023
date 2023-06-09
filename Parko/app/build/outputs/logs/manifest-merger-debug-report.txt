@@ -1,0 +1,444 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.mapbox.maps:android:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\fb0de40f4f282f2ab95616a0c606de8f\transformed\android-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.common:okhttp:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d16863fb34266bd39d459a3643466c01\transformed\okhttp-23.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-annotation:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\91eee88845bc14ff43da4a462e23e311\transformed\maps-annotation-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.extension:maps-localization:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\26932be8e98cc1f5abd228fc87a8c643\transformed\maps-localization-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.extension:maps-style:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\62a0c3e2913d6c328ff6653ca3768d12\transformed\maps-style-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-logo:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\2653316113734862b94bb7521a2c8056\transformed\maps-logo-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-compass:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e326fd4dca3bdd9e40bb3248e823f5a6\transformed\maps-compass-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-gestures:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\a8a216b55877af79b52b1d4ed71f82a0\transformed\maps-gestures-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-attribution:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b8a7ba7323b10f4d3ef47ded1af9c574\transformed\maps-attribution-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-viewport:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6ea3948f295191e185c18f8cbcc0d41f\transformed\maps-viewport-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-locationcomponent:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\531bc4713ead9ba61d19429505c7152f\transformed\maps-locationcomponent-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-animation:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b598d3f3e64c9cb639c26e0b08e17019\transformed\maps-animation-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-scalebar:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\9f8f430e836da9f057d05f5a4f5ca8b7\transformed\maps-scalebar-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-overlay:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\632be12b4375bbed241f5a59c650fb5c\transformed\maps-overlay-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.plugin:maps-lifecycle:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b95a92f24836ff570fcef69da2a2b9b0\transformed\maps-lifecycle-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.module:maps-telemetry:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\7a0593256c261ff302838d5b752670f2\transformed\maps-telemetry-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.maps:base:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\52168367587a8115ae86ce5bc7d22018\transformed\base-10.13.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:2:1-33:12
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:2:1-40:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\68835611da83695c153428c8749cf049\transformed\mapbox-android-gestures-0.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\94f817290238219002db6c9581ddf175\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e28b5635f5e1d4846dfd55a7d81f7ee3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c08cc6306b1ab5d85fac30c30c269964\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\537c9aa2c55d0792d3098686ef6b0c8b\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\dae98a046c1ca2649690edcbb4109a93\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\031b213fd8a75c2b2073401daeee7246\transformed\play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21f4f4a35a01f735b4f37b743147639b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\480d4eb680f9f4b9e2a5d10fd89c63e1\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\8a63abb9a435de29d66f15b91a2dc04d\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\bff97bb8c0431beb71e63a21ccbe104e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\20f63454d9d226f06dddac62d31d4854\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4927931d005eaa5d0a8b8f8dc6b28be0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\cec26e30512256a5ba425a199ad7331d\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\263107345a74c8bf34867cc02d2ebfce\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1182af4c61c567af7e39f93fb2c0f102\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4f7c8b326549ed558f4a045e604a0a33\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4637cd920c4e801a2ebdef52730c0739\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\fa95378621715ded10d3cedb071f35c0\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\de9791d0e3d7cc3c431b0e2b6865379f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3737c8df76383fa6176589c5409ce560\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c6c515eb96932908832c2abdf4a76cb0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\31d04a4416065aa8800a12e82f4d3461\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f498587d6fc321ad1ecbac6de28bf50b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21c2b045ed2f28475f417e109d0ecffb\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.mapbox.common:logger:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\eebf7bc11ebd018984afa098d048090a\transformed\logger-0.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.common:loader:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b473254848507dd008a3d1a6c5c8753c\transformed\loader-0.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.base:common:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\bca3847d24ccccc33bd932ecce848fd3\transformed\common-0.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1a2038cf3eb8bdcb150ce71166bd8d60\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1a500a56f5684b285b0cf266f9137ef3\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\07b8a60b62ca7cf5083dd4e46fb1c149\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\18ae2c5d82ede3057caa2e9a3278ca41\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\667deb675ae23727b081c9a3551a084e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\a695410f44813ab6081fa6c4367f6ce3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f95a437cb9496013d2d9314e057fbc43\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e7fcff463f37fb06483de2823d987d8c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d51e45f4e3b2c1a830a03d3f4a285a91\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\43ed5f93e334ab671e49fbe2a830dfba\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\30a54797bee81c1694b1959036de3d1d\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\197af2f0aba850d9d520e664f247ad9a\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d24ad2015d2fc91069996279a7a3a0e2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\8eb9342716ccdf11b987149c1dcff575\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1114d3baa2fc22b00bcddb3af97aeac3\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:8:5-32:19
+MERGED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:21:5-31:19
+MERGED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:21:5-31:19
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:13:5-38:19
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:13:5-38:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\94f817290238219002db6c9581ddf175\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\94f817290238219002db6c9581ddf175\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c08cc6306b1ab5d85fac30c30c269964\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c08cc6306b1ab5d85fac30c30c269964\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\031b213fd8a75c2b2073401daeee7246\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\031b213fd8a75c2b2073401daeee7246\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21f4f4a35a01f735b4f37b743147639b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21f4f4a35a01f735b4f37b743147639b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f95a437cb9496013d2d9314e057fbc43\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f95a437cb9496013d2d9314e057fbc43\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e7fcff463f37fb06483de2823d987d8c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e7fcff463f37fb06483de2823d987d8c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:16:9-50
+	android:dataExtractionRules
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:10:9-65
+activity#com.genesys.tauhackathon.MapsActivity
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:22:13-56
+	android:exported
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.genesys.tauhackathon.MainActivity
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+MERGED from [com.mapbox.maps:android:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\fb0de40f4f282f2ab95616a0c606de8f\transformed\android-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.maps:android:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\fb0de40f4f282f2ab95616a0c606de8f\transformed\android-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:okhttp:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d16863fb34266bd39d459a3643466c01\transformed\okhttp-23.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:okhttp:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d16863fb34266bd39d459a3643466c01\transformed\okhttp-23.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-annotation:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\91eee88845bc14ff43da4a462e23e311\transformed\maps-annotation-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-annotation:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\91eee88845bc14ff43da4a462e23e311\transformed\maps-annotation-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.extension:maps-localization:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\26932be8e98cc1f5abd228fc87a8c643\transformed\maps-localization-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.extension:maps-localization:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\26932be8e98cc1f5abd228fc87a8c643\transformed\maps-localization-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.extension:maps-style:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\62a0c3e2913d6c328ff6653ca3768d12\transformed\maps-style-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.extension:maps-style:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\62a0c3e2913d6c328ff6653ca3768d12\transformed\maps-style-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-logo:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\2653316113734862b94bb7521a2c8056\transformed\maps-logo-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-logo:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\2653316113734862b94bb7521a2c8056\transformed\maps-logo-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-compass:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e326fd4dca3bdd9e40bb3248e823f5a6\transformed\maps-compass-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-compass:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e326fd4dca3bdd9e40bb3248e823f5a6\transformed\maps-compass-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-gestures:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\a8a216b55877af79b52b1d4ed71f82a0\transformed\maps-gestures-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-gestures:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\a8a216b55877af79b52b1d4ed71f82a0\transformed\maps-gestures-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-attribution:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b8a7ba7323b10f4d3ef47ded1af9c574\transformed\maps-attribution-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-attribution:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b8a7ba7323b10f4d3ef47ded1af9c574\transformed\maps-attribution-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-viewport:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6ea3948f295191e185c18f8cbcc0d41f\transformed\maps-viewport-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-viewport:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6ea3948f295191e185c18f8cbcc0d41f\transformed\maps-viewport-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-locationcomponent:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\531bc4713ead9ba61d19429505c7152f\transformed\maps-locationcomponent-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-locationcomponent:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\531bc4713ead9ba61d19429505c7152f\transformed\maps-locationcomponent-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-animation:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b598d3f3e64c9cb639c26e0b08e17019\transformed\maps-animation-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-animation:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b598d3f3e64c9cb639c26e0b08e17019\transformed\maps-animation-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-scalebar:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\9f8f430e836da9f057d05f5a4f5ca8b7\transformed\maps-scalebar-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-scalebar:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\9f8f430e836da9f057d05f5a4f5ca8b7\transformed\maps-scalebar-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-overlay:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\632be12b4375bbed241f5a59c650fb5c\transformed\maps-overlay-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-overlay:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\632be12b4375bbed241f5a59c650fb5c\transformed\maps-overlay-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-lifecycle:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b95a92f24836ff570fcef69da2a2b9b0\transformed\maps-lifecycle-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.plugin:maps-lifecycle:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b95a92f24836ff570fcef69da2a2b9b0\transformed\maps-lifecycle-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.module:maps-telemetry:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\7a0593256c261ff302838d5b752670f2\transformed\maps-telemetry-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.module:maps-telemetry:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\7a0593256c261ff302838d5b752670f2\transformed\maps-telemetry-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.maps:base:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\52168367587a8115ae86ce5bc7d22018\transformed\base-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.maps:base:10.13.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\52168367587a8115ae86ce5bc7d22018\transformed\base-10.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\68835611da83695c153428c8749cf049\transformed\mapbox-android-gestures-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\68835611da83695c153428c8749cf049\transformed\mapbox-android-gestures-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\94f817290238219002db6c9581ddf175\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\94f817290238219002db6c9581ddf175\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e28b5635f5e1d4846dfd55a7d81f7ee3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e28b5635f5e1d4846dfd55a7d81f7ee3\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c08cc6306b1ab5d85fac30c30c269964\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c08cc6306b1ab5d85fac30c30c269964\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\537c9aa2c55d0792d3098686ef6b0c8b\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\537c9aa2c55d0792d3098686ef6b0c8b\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\dae98a046c1ca2649690edcbb4109a93\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\dae98a046c1ca2649690edcbb4109a93\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\031b213fd8a75c2b2073401daeee7246\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\031b213fd8a75c2b2073401daeee7246\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21f4f4a35a01f735b4f37b743147639b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21f4f4a35a01f735b4f37b743147639b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\480d4eb680f9f4b9e2a5d10fd89c63e1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\480d4eb680f9f4b9e2a5d10fd89c63e1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\8a63abb9a435de29d66f15b91a2dc04d\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\8a63abb9a435de29d66f15b91a2dc04d\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\bff97bb8c0431beb71e63a21ccbe104e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\bff97bb8c0431beb71e63a21ccbe104e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\20f63454d9d226f06dddac62d31d4854\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\20f63454d9d226f06dddac62d31d4854\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4927931d005eaa5d0a8b8f8dc6b28be0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4927931d005eaa5d0a8b8f8dc6b28be0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\cec26e30512256a5ba425a199ad7331d\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\cec26e30512256a5ba425a199ad7331d\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\263107345a74c8bf34867cc02d2ebfce\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\263107345a74c8bf34867cc02d2ebfce\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1182af4c61c567af7e39f93fb2c0f102\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1182af4c61c567af7e39f93fb2c0f102\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4f7c8b326549ed558f4a045e604a0a33\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4f7c8b326549ed558f4a045e604a0a33\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4637cd920c4e801a2ebdef52730c0739\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\4637cd920c4e801a2ebdef52730c0739\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\fa95378621715ded10d3cedb071f35c0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\fa95378621715ded10d3cedb071f35c0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\de9791d0e3d7cc3c431b0e2b6865379f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\de9791d0e3d7cc3c431b0e2b6865379f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3737c8df76383fa6176589c5409ce560\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3737c8df76383fa6176589c5409ce560\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c6c515eb96932908832c2abdf4a76cb0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\c6c515eb96932908832c2abdf4a76cb0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\31d04a4416065aa8800a12e82f4d3461\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\31d04a4416065aa8800a12e82f4d3461\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f498587d6fc321ad1ecbac6de28bf50b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f498587d6fc321ad1ecbac6de28bf50b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21c2b045ed2f28475f417e109d0ecffb\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\21c2b045ed2f28475f417e109d0ecffb\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.common:logger:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\eebf7bc11ebd018984afa098d048090a\transformed\logger-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:logger:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\eebf7bc11ebd018984afa098d048090a\transformed\logger-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:loader:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b473254848507dd008a3d1a6c5c8753c\transformed\loader-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.common:loader:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\b473254848507dd008a3d1a6c5c8753c\transformed\loader-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.base:common:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\bca3847d24ccccc33bd932ecce848fd3\transformed\common-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.base:common:0.8.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\bca3847d24ccccc33bd932ecce848fd3\transformed\common-0.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1a2038cf3eb8bdcb150ce71166bd8d60\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1a2038cf3eb8bdcb150ce71166bd8d60\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1a500a56f5684b285b0cf266f9137ef3\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1a500a56f5684b285b0cf266f9137ef3\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\07b8a60b62ca7cf5083dd4e46fb1c149\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\07b8a60b62ca7cf5083dd4e46fb1c149\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\18ae2c5d82ede3057caa2e9a3278ca41\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\18ae2c5d82ede3057caa2e9a3278ca41\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\667deb675ae23727b081c9a3551a084e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\667deb675ae23727b081c9a3551a084e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\a695410f44813ab6081fa6c4367f6ce3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\a695410f44813ab6081fa6c4367f6ce3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f95a437cb9496013d2d9314e057fbc43\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\f95a437cb9496013d2d9314e057fbc43\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e7fcff463f37fb06483de2823d987d8c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e7fcff463f37fb06483de2823d987d8c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d51e45f4e3b2c1a830a03d3f4a285a91\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d51e45f4e3b2c1a830a03d3f4a285a91\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\43ed5f93e334ab671e49fbe2a830dfba\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\43ed5f93e334ab671e49fbe2a830dfba\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\30a54797bee81c1694b1959036de3d1d\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\30a54797bee81c1694b1959036de3d1d\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\197af2f0aba850d9d520e664f247ad9a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\197af2f0aba850d9d520e664f247ad9a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d24ad2015d2fc91069996279a7a3a0e2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\d24ad2015d2fc91069996279a7a3a0e2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\8eb9342716ccdf11b987149c1dcff575\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\8eb9342716ccdf11b987149c1dcff575\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1114d3baa2fc22b00bcddb3af97aeac3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1114d3baa2fc22b00bcddb3af97aeac3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ido.LAPTOP-J1EPFJMS\Desktop\Android\Parko\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:10:5-12:35
+	android:glEsVersion
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:12:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:14:9-45
+uses-permission#android.permission.INTERNET
+ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:17:5-67
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:10:5-67
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:18:5-79
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:19:22-73
+provider#androidx.startup.InitializationProvider
+ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:22:9-30:20
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:14:9-24:20
+MERGED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:14:9-24:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e7fcff463f37fb06483de2823d987d8c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\e7fcff463f37fb06483de2823d987d8c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:26:13-31
+	android:authorities
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:24:13-68
+	android:exported
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:23:13-67
+meta-data#com.mapbox.maps.loader.MapboxMapsInitializer
+ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:27:13-29:52
+	android:value
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:29:17-49
+	android:name
+		ADDED from [com.mapbox.maps:android-core:10.13.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\df74e8b565f8df750d1e15ec6a326cdc\transformed\android-core-10.13.1\AndroidManifest.xml:28:17-76
+meta-data#com.mapbox.common.MapboxSDKCommonInitializer
+ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:21:13-23:52
+	android:value
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:23:17-49
+	android:name
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:22:17-76
+receiver#com.mapbox.common.location.LocationUpdatesReceiver
+ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:26:9-33:20
+	android:enabled
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:27:13-78
+intent-filter#action:name:com.mapbox.common.location.LocationUpdatesReceiver.ACTION_PROCESS_LOCATION_UPDATES
+ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:30:13-32:29
+action#com.mapbox.common.location.LocationUpdatesReceiver.ACTION_PROCESS_LOCATION_UPDATES
+ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:31:17-125
+	android:name
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:31:25-122
+service#com.mapbox.common.LifecycleService
+ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.mapbox.common:common:23.5.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\3dedcf574417c3a51263f46992dcb748\transformed\common-23.5.0\AndroidManifest.xml:36:13-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\896ed8c7888e2bfa0a0d01a4e875224d\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\1913952062f916982ffd6749c5ef3eeb\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\6033d48a1129e06d79e8b24e1f87f334\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.genesys.tauhackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.genesys.tauhackathon.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\ce02fa6b74382804880bcbe4dd879f54\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Ido.LAPTOP-J1EPFJMS\.gradle\caches\transforms-3\23b59a420fc15368b48fb72e868c4c6d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
